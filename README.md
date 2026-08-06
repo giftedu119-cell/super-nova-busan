@@ -30,4 +30,4 @@ GitHub Pages용 정적 빌드는 다음 명령으로 확인할 수 있습니다.
 npm run build:pages
 ```
 
-`main` 브랜치에 변경 사항을 올리면 GitHub Actions가 사이트를 자동으로 다시 배포합니다.
+현재 GitHub Pages는 `main` 브랜치 루트의 정적 배포 파일을 사용합니다. 전체 개발 소스는 저장소의 `super-nova-source.zip`에서도 내려받을 수 있습니다.
